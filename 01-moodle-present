@@ -1,0 +1,88 @@
+\documentclass[a4paper]{beamer}
+\usetheme{Boadilla}
+
+\title {\textbf{Internal Assessment Using Moodlecloud}}
+\subtitle{\textit{Tutorial for Participant Students}}
+\author{Sanjeeb Bhattarai}
+\institute{KAFCOL}
+\date{\today}
+
+\begin{document}
+	
+\begin{frame}
+\titlepage
+\end{frame}
+
+\begin{frame}
+\frametitle <1-> {Learning Objective\\
+In this tutorial, we will learn how to:}
+\begin{itemize}
+    \item <2-> {\textcolor<3->{blue}{log-in to Moodlecloud using given Username and Password}}
+    \item <3-> {\textcolor<4->{blue}{attempt Internal Assessment}}
+    \item <4-> {\textcolor<5->{blue}{flag a question}}
+    \item <5-> {\textcolor<6->{blue}{review finished attempts before final submission}}
+    \item <6-> {\textcolor<7->{blue}{attempt specific flagged, incomplete question(s), and if needed re-attempt questions before final submission}}
+    \item <7-> {\textcolor<8->{blue}{submit all answers and confirm submission, and review final result and question specific feedback}}
+    \item <8-> report error or dissatisfaction, if any, using feedback forum
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle {Pre-requisites:}
+\begin{itemize}
+    \item <2-> {\textcolor<3->{blue}{questions added on Moodlecloud course page by Site Administration and registered you as a student}}
+    \item <3-> {\textcolor<4->{blue} {you have received Username and Password to log-in to Moodlecloud}}
+    \item <4-> {\textcolor<5->{blue}{Internet connection}}
+    \item <5-> Chrome/ Firefox web browser, but avoid Internet Explorer
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle {Example - Question format}
+\begin{itemize}
+    \item <2-> {\textcolor<3->{blue} {you have studied two units of the course, therefore the questions will cover only these two units}}
+    \item <3-> {\textcolor<4->{blue} {short questions - multiple choice, fill in the blanks, matching, yes/no type}}
+    \item <4-> {\textcolor<5->{blue} {total number of questions = 10}}
+    \item <5-> Page - 1 has questions from Unit-1 (Q.N. 1-5), and Page -2 has from Unit-2 (Q.N. 6-10)
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle {Example - Assessment method}
+\begin{itemize}
+    \item <2-> {\textcolor<3->{blue} {weight of each question = 1.0 mark, full marks = 10.0, pass mark = 4.0, no negative marking, marks rounded to one decimal points (i.e. 8.7 instead of 8.66)}}
+    \item <3-> {\textcolor<4->{blue} {partial marking for multiple sub-questions}}
+    \item <4-> {\textcolor<5->{blue} {grading scales:}}
+    	\begin{itemize}
+    		\item <5-> {\textcolor<6->{green} {above 75.0\% - Distinction}}
+    		\item <6-> {\textcolor<7->{-red!75} {60.0-75.0\% - First division}}
+   		 	\item <7-> {\textcolor<8->{yellow} {50.0-60.0\% - Second division}}
+    		\item <8-> {\textcolor<9->{orange} {40.0-50.0\% - Third Division}}
+    		\item <9-> {\textcolor<10->{red} {below 40.0\% - Fail}}
+    	\end{itemize}
+    \item <10-> marks and feedback on your answers (total and question specific)– generated automatically on submission
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Summary\\
+In this tutorial, you have just learnt to:}
+\begin{itemize}
+\item log-in to Moodlecloud using given Username and Password
+\item attempt internal assessment
+\item flag a question
+\item review finished attempts before final submission
+\item attempt specific flagged, incomplete question(s), and if needed re-attempt question(s) before final submission
+\item submit all answers and confirm submission, and review final result and question specific feedback
+\item report error or dissatisfaction, if any, using feedback forum
+\end{itemize}
+\end{frame}
+
+\begin{frame}
+\begin{center}
+\Huge The End\\
+\Huge Thank You!
+\end{center}
+\end{frame}
+
+\end{document}
